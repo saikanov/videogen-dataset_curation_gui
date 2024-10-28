@@ -1,5 +1,5 @@
 # videogen-dataset_toolkit
-simple python GUI for curate video dataset, because i cant find a software that can delete the video while streaming it, so i make simple one.
+Simple python GUI for curate video dataset, because i cant find a software that can delete the video while streaming it, so i make simple one.
 
 ## Features
 - Play list of video from a folder
