@@ -7,7 +7,7 @@ simple python GUI for curate video dataset, because i cant find a software that 
 - Basic Video Player features:
   - next and previous video from the list
   - rewatch the video
-  - and for sure delete video(not basic tho)
+  - and for sure delete video (not basic tho)
 - Can select folder.
 
 ## Installation
